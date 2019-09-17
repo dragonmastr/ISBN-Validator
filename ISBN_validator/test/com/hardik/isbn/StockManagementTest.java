@@ -28,6 +28,7 @@ public class StockManagementTest extends ValidateISBN {
 			
 		}; 
 		
+		
 		 
 		StockManager stockManager=new StockManager();
 		stockManager.setWebService(testWebService);
